@@ -1,0 +1,11 @@
+{
+    "name": "GamteBot",
+    "version": "1.0.0",
+    "description": "A bot that allows users to play the game 2048 via discord reactions",
+    "main": "game.js",
+    "author": "DeVante#0001",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "winston": "^3.2.1"
+    }
+}
